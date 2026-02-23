@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1771861218.05116 "/home/jackdavidmaher/Karate/UoBKarateNotes/ClubExecutiveCommitteeNotes/23rd Feb.tex" "23rd Feb.pdf" "23rd Feb" 1771861222.09085 0
+["pdflatex"] 1771864404.83808 "/home/jackdavidmaher/Karate/UoBKarateNotes/ClubExecutiveCommitteeNotes/23rd Feb.tex" "23rd Feb.pdf" "23rd Feb" 1771864407.19229 0
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.583pk" 1771861221.92574 38480 4366d95336ad407eff286a56cfc6bad9 ""
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk" 1771861112.04826 49076 591fb4d15a0f51b11bb0f967c94956bb ""
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk" 1771848480.5336 28416 2874cf7b9de6fd03d23762622ca97a27 ""
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk" 1771860365.08731 33292 95dce0d8268f2cf023f2bb6197b47c38 ""
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk" 1771860321.11196 53712 0e93c1f7b696c5ccd5b2661a1f92c82f ""
-  "/home/jackdavidmaher/Karate/UoBKarateNotes/ClubExecutiveCommitteeNotes/23rd Feb.tex" 1771861215.39776 509 21516fab7f180afdd42f0baa90c50280 ""
+  "/home/jackdavidmaher/Karate/UoBKarateNotes/ClubExecutiveCommitteeNotes/23rd Feb.tex" 1771864402.20287 821 8ec20e96c90c142c3a85e607b58e576c ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1767555874 3584 13049b61b922a28b158a38aeff75ee9b ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1767555874 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1767555874 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
@@ -63,10 +63,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771518756 5011229 9e2a3c024ce745caba5794ee5595b35e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1771519331 2060251 c3445fa78c9e3b5c36b0b7e9452f8344 ""
-  "23rd Feb.aux" 1771861220.40875 356 138259d0fab98fc936ebe21a7eb79a90 "pdflatex"
-  "23rd Feb.out" 1771861220.40875 70 c4a78932a39e3ca429ca63f6ca31738e "pdflatex"
-  "23rd Feb.tex" 1771861215.39776 509 21516fab7f180afdd42f0baa90c50280 ""
-  "23rd Feb.toc" 1771861220.40975 112 56bcaedd435c916f5871fbee6b012366 "pdflatex"
+  "23rd Feb.aux" 1771864407.14524 372 775bcc0a91df1845e0011104e91a7475 "pdflatex"
+  "23rd Feb.out" 1771864407.14624 161 37744fec2c1a558d307455e52f2cd6b9 "pdflatex"
+  "23rd Feb.tex" 1771864402.20287 821 8ec20e96c90c142c3a85e607b58e576c ""
+  "23rd Feb.toc" 1771864407.14747 128 8c1d0ff79d6b90a775fbd3631df9d3ca "pdflatex"
   "Lion.png" 1771861019.95891 710758 630fa9efc60ff0573bbbab19aaa678a9 ""
   (generated)
   "23rd Feb.aux"

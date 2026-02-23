@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.19)  23 FEB 2026 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.19)  23 FEB 2026 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -75,20 +75,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./election.aux)
 \openout1 = `election.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -144,34 +144,30 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
-
-
-LaTeX Warning: No \author given.
-
+(Font)              <7> on input line 12.
 <Lion.png, id=1, 4364.305pt x 4959.52875pt>
 File: Lion.png Graphic file (type png)
 <use Lion.png>
-Package pdftex.def Info: Lion.png  used on input line 18.
+Package pdftex.def Info: Lion.png  used on input line 15.
 (pdftex.def)             Requested size: 288.88243pt x 328.20776pt.
 
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Lion.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 23--43
+Underfull \hbox (badness 10000) in paragraph at lines 19--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--43
+Underfull \hbox (badness 10000) in paragraph at lines 19--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--43
+Underfull \hbox (badness 10000) in paragraph at lines 19--39
 
  []
 
@@ -186,7 +182,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  2130 strings out of 475128
  32590 string characters out of 5766034
- 425384 words of memory out of 5000000
+ 425371 words of memory out of 5000000
  25153 multiletter control sequences out of 15000+600000
  563897 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
