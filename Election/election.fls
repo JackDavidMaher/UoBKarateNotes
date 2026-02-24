@@ -64,6 +64,11 @@ INPUT ./Lion.png
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
+INPUT ./Jan 26, 2026, 12_18_29 PM.png
+INPUT ./Jan 26, 2026, 12_18_29 PM.png
+INPUT ./Jan 26, 2026, 12_18_29 PM.png
+INPUT ./Jan 26, 2026, 12_18_29 PM.png
+INPUT ./Jan 26, 2026, 12_18_29 PM.png
 INPUT election.aux
 INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk
 INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk

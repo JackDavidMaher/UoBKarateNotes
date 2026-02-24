@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1771862009.40438 "/home/jackdavidmaher/Karate/UoBKarateNotes/Election/election.tex" "election.pdf" "election" 1771862011.65553 0
+["pdflatex"] 1771940010.83852 "/home/jackdavidmaher/Karate/UoBKarateNotes/Election/election.tex" "election.pdf" "election" 1771940013.19909 0
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk" 1771848480.5336 28416 2874cf7b9de6fd03d23762622ca97a27 ""
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk" 1771860365.08731 33292 95dce0d8268f2cf023f2bb6197b47c38 ""
   "/home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk" 1771860321.11196 53712 0e93c1f7b696c5ccd5b2661a1f92c82f ""
-  "/home/jackdavidmaher/Karate/UoBKarateNotes/Election/election.tex" 1771862009.15917 2733 5528896a5790b7c040e2c614f5871bde ""
+  "/home/jackdavidmaher/Karate/UoBKarateNotes/Election/election.tex" 1771940010.64722 2894 2067dbc8ca6794e912b972f88739d93d ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1767555874 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1767555874 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm" 1767555874 3584 3169d30142b88a27d4ab0e3468e963a2 ""
@@ -33,9 +33,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771518756 5011229 9e2a3c024ce745caba5794ee5595b35e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1771519331 2060251 c3445fa78c9e3b5c36b0b7e9452f8344 ""
+  "Jan 26, 2026, 12_18_29 PM.png" 1771939892.76207 3396637 0a6ed936cbd1372729b1cd5a80269ae1 ""
   "Lion.png" 1771850162.13434 710758 630fa9efc60ff0573bbbab19aaa678a9 ""
-  "election.aux" 1771862011.62214 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "election.tex" 1771862009.15917 2733 5528896a5790b7c040e2c614f5871bde ""
+  "election.aux" 1771940013.16584 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "election.tex" 1771940010.64722 2894 2067dbc8ca6794e912b972f88739d93d ""
   (generated)
   "election.aux"
   "election.log"
