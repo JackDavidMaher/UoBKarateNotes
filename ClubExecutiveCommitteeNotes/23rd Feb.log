@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.19)  23 FEB 2026 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.19)  23 FEB 2026 17:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -262,15 +262,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 14.
-<Lion.png, id=12, 4364.305pt x 4959.52875pt>
+<Lion.png, id=4, 4364.305pt x 4959.52875pt>
 File: Lion.png Graphic file (type png)
 <use Lion.png>
 Package pdftex.def Info: Lion.png  used on input line 16.
 (pdftex.def)             Requested size: 262.61894pt x 298.39133pt.
- (./23rd Feb.toc)
-\tf@toc=\write4
-\openout4 = `"23rd Feb.toc"'.
-
 
 
 [1
@@ -283,21 +279,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `"23rd Feb".out' has not changed.
-(rerunfilecheck)             Checksum: 37744FEC2C1A558D307455E52F2CD6B9;161.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9191 strings out of 475128
- 141023 string characters out of 5766034
- 538517 words of memory out of 5000000
- 32105 multiletter control sequences out of 15000+600000
- 564672 words of font info for 46 fonts, out of 8000000 for 9000
+ 9173 strings out of 475128
+ 140808 string characters out of 5766034
+ 537504 words of memory out of 5000000
+ 32093 multiletter control sequences out of 15000+600000
+ 563897 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,6n,79p,362b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.583pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on "23rd Feb.pdf" (2 pages, 632763 bytes).
+ 75i,6n,79p,362b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
+Output written on "23rd Feb.pdf" (2 pages, 622882 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

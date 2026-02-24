@@ -109,10 +109,10 @@ INPUT ./23rd Feb.out
 INPUT ./23rd Feb.out
 INPUT 23rd Feb.out
 INPUT 23rd Feb.out
-OUTPUT 23rd Feb.pdf
 INPUT ./23rd Feb.out
 INPUT ./23rd Feb.out
 OUTPUT 23rd Feb.out
+OUTPUT 23rd Feb.pdf
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -123,19 +123,12 @@ INPUT ./Lion.png
 INPUT ./Lion.png
 INPUT ./Lion.png
 INPUT ./Lion.png
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
-INPUT ./23rd Feb.toc
-INPUT ./23rd Feb.toc
-INPUT 23rd Feb.toc
-INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
-OUTPUT 23rd Feb.toc
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT 23rd Feb.aux
 INPUT ./23rd Feb.out
 INPUT ./23rd Feb.out
 INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk
-INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.583pk
-INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk
 INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk
 INPUT /home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk
