@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.19)  24 FEB 2026 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.19)  28 FEB 2026 11:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -157,17 +157,32 @@ Package pdftex.def Info: Lion.png  used on input line 15.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Lion.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 19--39
+Underfull \hbox (badness 10000) in paragraph at lines 19--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--39
+Underfull \hbox (badness 10000) in paragraph at lines 19--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--39
+Underfull \hbox (badness 10000) in paragraph at lines 19--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--45
 
  []
 
@@ -177,7 +192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--39
 <Jan 26, 2026, 12_18_29 PM.png, id=15, 1027.84pt x 1541.76pt>
 File: Jan 26, 2026, 12_18_29 PM.png Graphic file (type png)
 <use Jan 26, 2026, 12_18_29 PM.png>
-Package pdftex.def Info: Jan 26, 2026, 12_18_29 PM.png  used on input line 42.
+Package pdftex.def Info: Jan 26, 2026, 12_18_29 PM.png  used on input line 51.
 (pdftex.def)             Requested size: 498.97438pt x 748.45847pt.
 
 
@@ -188,17 +203,17 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2137 strings out of 475128
- 32841 string characters out of 5766034
- 425371 words of memory out of 5000000
- 25160 multiletter control sequences out of 15000+600000
+ 2139 strings out of 475128
+ 32905 string characters out of 5766034
+ 426374 words of memory out of 5000000
+ 25162 multiletter control sequences out of 15000+600000
  563897 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 57i,6n,65p,423b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,415b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.583pk> </home/jackdavidmaher/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on election.pdf (3 pages, 3908852 bytes).
+Output written on election.pdf (3 pages, 3910678 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
